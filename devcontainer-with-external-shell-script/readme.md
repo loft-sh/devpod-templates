@@ -19,4 +19,4 @@ To set up a Devcontainer with custom tools, configure your `devcontainer.json` t
 Test it out here:
 
 
-[![Open in DevPod!](https://devpod.sh/assets/open-in-devpod.svg)](https://devpod.sh/open#https://github.com/loft-sh/devpod-templates@subpath::devcontainer-with-external-shell-script)
+[![Open in DevPod!](https://devpod.sh/assets/open-in-devpod.svg)](https://devpod.sh/open#https://github.com/loft-sh/devpod-templates@subpath:devcontainer-with-external-shell-script)
