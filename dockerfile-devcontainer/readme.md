@@ -7,7 +7,8 @@ This configuration, uses a Dockerfile to define a custom development environment
   "name": "Dockerfile Python",
   "build": { "dockerfile": "Dockerfile" },
   "features": {
-    "ghcr.io/devcontainers/features/docker-in-docker:2": {}
+    "ghcr.io/devcontainers/features/docker-in-docker:2": {},
+    "ghcr.io/devcontainers/features/common-utils:2": {}
   }
 }
 ```
