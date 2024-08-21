@@ -2,7 +2,7 @@
 
 Jupyter Notebook for DevPod
 
-[![Open in DevPod!](https://devpod.sh/assets/open-in-devpod.svg)](https://github.com/loft-sh/devpod-templates@subpath:jupyter-notebook)
+[![Open in DevPod!](https://devpod.sh/assets/open-in-devpod.svg)](https://devpod.sh/open#https://github.com/loft-sh/devpod-templates@subpath:jupyter-notebook)
 
 This is an example repository for testing out the functionality of Devpod + Jupyter Notebook. Select `Jupyter Notebook` as your preferred IDE for a native experience: 
 
